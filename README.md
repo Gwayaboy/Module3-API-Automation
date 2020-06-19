@@ -6,8 +6,8 @@ Please [view and download ](https://github.com/Gwayaboy/Module3-API-Automation/b
 
  1.  **API Overview**
     - What is an API?
-    - [API Types](https://blog.rapidapi.com/types-of-apis/)
-    - [Versioning](https://github.com/Microsoft/aspnet-api-versioning/wiki/How-to-Version-Your-Service)
+     - [API Types](https://blog.rapidapi.com/types-of-apis/)
+     - [Versioning](https://github.com/Microsoft/aspnet-api-versioning/wiki/How-to-Version-Your-Service)
  2. **Why/When to use API?**
     - The Rise of the API Economy
     - Benefits and Risks of exposings APIs
