@@ -1,6 +1,6 @@
 # Module 3: API Automation Testing
 
-Please [view and download ](https://github.com/Gwayaboy/Module2-UIAutomationTesting/blob/master/Content/AutomationTesting-Module2-18th.pdf) Module 2's Slide deck
+Please [view and download ](https://github.com/Gwayaboy/Module3-API-Automation/blob/master/Content/APITesting-Module3%20-%2019th.pdf) Module 3's Slide deck
 
 ## Agenda
 
